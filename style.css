@@ -1,6 +1,6 @@
-@import url("./bootstrap/dist/css/bootstrap-grid.min.css");
+@import url("./bootstrap/dist/css/bootstrap.min.css");
 
 body{
     margin: 0;
-    background-color: silver;
+    background-color: lightblue;
 }
